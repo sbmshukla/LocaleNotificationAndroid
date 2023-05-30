@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocaleNotificationAndroid</string>
+    <string name="_5_seconds">5 seconds</string>
+    <string name="_10_seconds">10 seconds</string>
+    <string name="_30_seconds">30 seconds</string>
+    <string name="create_notification">Create Notification</string>
+    <string name="s">S</string>
+    <string name="end_call">End Call</string>
+    <string name="start_call">Start Call</string>
+    <string name="call_from_91_81286_18176">call from +91 81286 18176</string>
+</resources>
